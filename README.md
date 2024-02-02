@@ -1,1 +1,1 @@
-# Microservices-MessageQueues
+# Sample-Shopping-App
